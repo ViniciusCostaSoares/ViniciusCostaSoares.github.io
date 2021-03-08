@@ -1,0 +1,35 @@
+h1.titulo{
+    text-align: center;
+    text-indent: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+h2.subtitulo{
+    text-align: center;
+    text-indent: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+}
+p.paragrafo{
+    margin: 20px;
+    text-align: justify;
+    text-indent: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+#imggreg{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 45%;
+}
+#imgradis{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 45%;
+}
+#imgsocio{
+    position: relative;
+    left: 13%;
+}
